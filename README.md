@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sarahbreedlove
 - 👀 I’m interested in hiking, baking and yoga. 
-- 🌱 I’m currently an undergraduate at Boise State University studying Biology with an empahsis in Ecology, Evolution and Behavior while minorning in Sustainability.
-As well as pursuing my certification in Data Analysis in R. 
+- 🌱 I’m currently an undergraduate at Boise State University studying Biology with an empahsis in Ecology, Evolution and Behavior.
 - 📫 How to reach me sarahbreedlove@u.boisestate.edu
 
 <!---
